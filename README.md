@@ -1,9 +1,9 @@
 # ¡Hola, soy Andy Cruz! 👋
 ### Software Engineer | Backend (.NET / C#) & Data Developer (SQL Server / ETL)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy%20Cruz-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/andy-cruz-/)
-[![Email](https://img.shields.io/badge/Email-Andycruzuni%40gmail.com-D14836?style=flat&logo=gmail)](mailto:Andycruzuni@gmail.com)
-[![Disponibilidad](https://img.shields.io/badge/Disponibilidad-Remoto%20Flexible%20%2F%20Freelance-brightgreen?style=flat)](#)
+[![Portafolio Web](https://img.shields.io/badge/🌐%20Portafolio%20Web-Ver%20Online-319795?style=for-the-badge)](https://andycruz81.github.io/CV-ONLINE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy%20Cruz-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andy-cruz-/)
+[![Email](https://img.shields.io/badge/Email-Andycruzuni%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:Andycruzuni@gmail.com)
 
 ---
 
@@ -12,6 +12,7 @@ Ingeniero de Sistemas con más de **3 años de experiencia** construyendo, optim
 
 Especializado en desarrollo backend robusto, diseño y optimización de bases de datos relacionales de alto volumen, automatización de procesos ETL y generación de reportería regulatoria para auditorías.
 
+- 🌐 **Sitio Web & Portafolio Interactivo:** [https://andycruz81.github.io/CV-ONLINE/](https://andycruz81.github.io/CV-ONLINE/)
 - 🏦 **Fintech & Microfinanzas:** Experiencia en plataformas de colocación de crédito, gestión de cartera y reportería ante entes reguladores estatales (*Wimix Solutions / Credicoop / Credifin*).
 - 🏬 **Retail & Inventarios:** Desarrollo y soporte evolutivo de sistemas transaccionales para control de tiendas, inventarios y contabilidad de costos (*El Halcón*).
 - 📊 **Datos & BI:** Implementación de flujos de integración ETL, Data Warehouses y tableros analíticos en Power BI.
@@ -23,8 +24,8 @@ Especializado en desarrollo backend robusto, diseño y optimización de bases de
 | Área | Tecnologías |
 | :--- | :--- |
 | **Backend & Lenguajes** | C#, .NET, .NET Core, WinForms, ASP.NET, Python (Flask), JavaScript (ES6+), T-SQL |
-| **Bases de Datos** | Microsoft SQL Server, MySQL, SQLite, Procedimientos Almacenados, Vistas, Índices, Stored Procedures |
-| **Datos & Reportería** | Pipelines ETL, Power BI, Crystal Reports, Modelado de Datos |
+| **Bases de Datos** | Microsoft SQL Server, MySQL, SQLite, Procedimientos Almacenados, Vistas, Índices |
+| **Datos & Reportería** | Pipelines ETL, Power BI, Crystal Reports, Modelado Dimensional |
 | **Herramientas** | Git, GitHub, Visual Studio, VS Code, Postman, Jinja2 |
 
 ---
@@ -46,6 +47,6 @@ Especializado en desarrollo backend robusto, diseño y optimización de bases de
 ---
 
 ### 📬 Conectemos
+- **Portafolio en vivo:** [andycruz81.github.io/CV-ONLINE](https://andycruz81.github.io/CV-ONLINE/)
 - **LinkedIn:** [linkedin.com/in/andy-cruz-](https://www.linkedin.com/in/andy-cruz-/)
 - **Email directo:** [Andycruzuni@gmail.com](mailto:Andycruzuni@gmail.com)
-- **Ubicación:** Managua, Nicaragua (Disponible para proyectos remotos en toda Hispanoamérica)
